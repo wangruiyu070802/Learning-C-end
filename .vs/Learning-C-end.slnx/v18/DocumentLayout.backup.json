@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Tool-Devs\\Item-C\\Learning-C-end\\Learning-C-end\\",
+  "WorkspaceRootPath": "D:\\Tool-Devs\\Item-C\\Learning-C-end\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5F8AD014-7D9A-45FA-BE54-3F946874A2E3}|Learning-C-end.vcxproj|D:\\Tool-Devs\\Item-C\\Learning-C-end\\Learning-C-end\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{5F8AD014-7D9A-45FA-BE54-3F946874A2E3}|Learning-C-end.vcxproj|D:\\Tool-Devs\\Item-C\\Learning-C-end\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5F8AD014-7D9A-45FA-BE54-3F946874A2E3}|Learning-C-end.vcxproj|solutionrelative:test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -52,11 +52,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "test.c",
-              "DocumentMoniker": "D:\\Tool-Devs\\Item-C\\Learning-C-end\\Learning-C-end\\test.c",
+              "DocumentMoniker": "D:\\Tool-Devs\\Item-C\\Learning-C-end\\test.c",
               "RelativeDocumentMoniker": "test.c",
-              "ToolTip": "D:\\Tool-Devs\\Item-C\\Learning-C-end\\Learning-C-end\\test.c",
+              "ToolTip": "D:\\Tool-Devs\\Item-C\\Learning-C-end\\test.c",
               "RelativeToolTip": "test.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-04-10T00:42:01.405Z",
               "EditorCaption": ""

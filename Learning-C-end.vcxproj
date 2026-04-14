@@ -25,6 +25,7 @@
     <ClCompile Include="182-枚举.c" />
     <ClCompile Include="185-字串符.c" />
     <ClCompile Include="198-strchr&amp;strrchr.c" />
+    <ClCompile Include="208-流-实操.c" />
     <ClCompile Include="test.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
