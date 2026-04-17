@@ -39,5 +39,8 @@
     <ClCompile Include="208-流-实操.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="209-流-覆盖写入-mode_w.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
