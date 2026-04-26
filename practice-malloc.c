@@ -1,0 +1,24 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main() {
+
+
+
+	char* arr = (char*)malloc(100);
+	if (arr == NULL) {
+		printf("Error malloc function.\n");
+		return 1;
+	}
+
+	// 读取字符串，指定最大长度
+	scanf_s("%99s", arr, 100);
+
+	// 逐字符打印
+	for (int i = 0; arr[i] != '\0'; ++i) {
+		printf("%c\n", arr[i]);
+	}
+
+	free(arr);
+	return 0;
+}

@@ -1,0 +1,25 @@
+﻿#include <stdio.h>
+#include <inttypes.h>
+#include <string.h>
+#include <stdlib.h>
+#include <errno.h>
+
+int main() {
+
+
+
+	char* arr = (char*)malloc(100);
+	if (arr == NULL) {
+		printf("Error malloc function.\n");
+	}
+
+	scanf_s("%s ", *arr);
+
+	for (int8_t i = 0; i != '\0'; ++i) {
+		printf("%s\n", arr);
+	}
+
+
+
+	return 0;
+}

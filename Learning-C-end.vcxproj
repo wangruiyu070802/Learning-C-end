@@ -27,7 +27,10 @@
     <ClCompile Include="198-strchr&amp;strrchr.c" />
     <ClCompile Include="208-流-实操.c" />
     <ClCompile Include="209-流-覆盖写入-mode_w.c" />
-    <ClCompile Include="test.c" />
+    <ClCompile Include="212-ferror-feor-fclearerr.c" />
+    <ClCompile Include="215-w模式清空.c" />
+    <ClCompile Include="practice-malloc.c" />
+    <ClCompile Include="practice-给字符串排序.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>
