@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "D:\\03_Dev\\Repos\\Learning-C-end\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5F8AD014-7D9A-45FA-BE54-3F946874A2E3}|Learning-C-end.vcxproj|D:\\03_Dev\\Repos\\Learning-C-end\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5F8AD014-7D9A-45FA-BE54-3F946874A2E3}|Learning-C-end.vcxproj|solutionrelative:test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{5F8AD014-7D9A-45FA-BE54-3F946874A2E3}|Learning-C-end.vcxproj|D:\\03_Dev\\Repos\\Learning-C-end\\218-game_setting_instance.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5F8AD014-7D9A-45FA-BE54-3F946874A2E3}|Learning-C-end.vcxproj|solutionrelative:218-game_setting_instance.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8AD014-7D9A-45FA-BE54-3F946874A2E3}|Learning-C-end.vcxproj|D:\\03_Dev\\Repos\\Learning-C-end\\gamesettings.bin||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{5F8AD014-7D9A-45FA-BE54-3F946874A2E3}|Learning-C-end.vcxproj|solutionrelative:gamesettings.bin||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,21 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 9,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "test.c",
-              "DocumentMoniker": "D:\\03_Dev\\Repos\\Learning-C-end\\test.c",
-              "RelativeDocumentMoniker": "test.c",
-              "ToolTip": "D:\\03_Dev\\Repos\\Learning-C-end\\test.c",
-              "RelativeToolTip": "test.c",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACgAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-04-24T02:56:17.802Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
@@ -60,6 +51,30 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "gamesettings.bin",
+              "DocumentMoniker": "D:\\03_Dev\\Repos\\Learning-C-end\\gamesettings.bin",
+              "RelativeDocumentMoniker": "gamesettings.bin",
+              "ToolTip": "D:\\03_Dev\\Repos\\Learning-C-end\\gamesettings.bin",
+              "RelativeToolTip": "gamesettings.bin",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-27T13:29:01.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "218-game_setting_instance.c",
+              "DocumentMoniker": "D:\\03_Dev\\Repos\\Learning-C-end\\218-game_setting_instance.c",
+              "RelativeDocumentMoniker": "218-game_setting_instance.c",
+              "ToolTip": "D:\\03_Dev\\Repos\\Learning-C-end\\218-game_setting_instance.c",
+              "RelativeToolTip": "218-game_setting_instance.c",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-04-27T12:32:58.757Z",
+              "EditorCaption": ""
             }
           ]
         }

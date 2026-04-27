@@ -1,24 +1,24 @@
-#include <stdio.h>
-#include <stdlib.h>
-
-int main() {
-
-
-
-	char* arr = (char*)malloc(100);
-	if (arr == NULL) {
-		printf("Error malloc function.\n");
-		return 1;
-	}
-
-	// è¯»å–å­—ç¬¦ä¸²ï¼ŒæŒ‡å®šæœ€å¤§é•¿åº¦
-	scanf_s("%99s", arr, 100);
-
-	// é€å­—ç¬¦æ‰“å°
-	for (int i = 0; arr[i] != '\0'; ++i) {
-		printf("%c\n", arr[i]);
-	}
-
-	free(arr);
-	return 0;
-}
+//#include <stdio.h>
+//#include <stdlib.h>
+//
+//int main() {
+//
+//
+//
+//	char* arr = (char*)malloc(100);
+//	if (arr == NULL) {
+//		printf("Error malloc function.\n");
+//		return 1;
+//	}
+//
+//	// ¶ÁÈ¡×Ö·û´®£¬Ö¸¶¨×î´ó³¤¶È
+//	scanf_s("%99s", arr, 100);
+//
+//	// Öğ×Ö·û´òÓ¡
+//	for (int i = 0; arr[i] != '\0'; ++i) {
+//		printf("%c\n", arr[i]);
+//	}
+//
+//	free(arr);
+//	return 0;
+//}

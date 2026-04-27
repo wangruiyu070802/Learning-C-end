@@ -29,8 +29,15 @@
     <ClCompile Include="209-流-覆盖写入-mode_w.c" />
     <ClCompile Include="212-ferror-feor-fclearerr.c" />
     <ClCompile Include="215-w模式清空.c" />
+    <ClCompile Include="218-game_setting_instance.c" />
     <ClCompile Include="practice-malloc.c" />
     <ClCompile Include="practice-给字符串排序.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="gamesettings.bin" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="context.txt" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>

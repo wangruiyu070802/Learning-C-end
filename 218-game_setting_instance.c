@@ -1,0 +1,55 @@
+//#include <stdio.h>
+//#include <errno.h>
+//#include <string.h>
+//#include <stdlib.h>
+//
+//typedef struct {
+//	double volume;
+//	int resolution_x;
+//	int resolution_y;
+//	int diffculty_mode;
+//} Gamesettings;
+//
+//void save_game_setting(const Gamesettings* settings, const char* filename);
+//void load_game_setting(Gamesettings* settings, const char* filename);
+//
+//int main() {
+//	Gamesettings save_settings = { 0.85, 10086, 211985, 10 };
+//	Gamesettings loaded_settings;
+//
+//	save_game_setting(&save_settings, "D:/03_Dev/Repos/Learning-C-end/gamesettings.bin");
+//	load_game_setting(&loaded_settings, "D:/03_Dev/Repos/Learning-C-end/gamesettings.bin");
+//
+//	printf("游戏设置已加载!\n");
+//	printf("声音：%.2lf\n分辨率：%d*%d\n难度：%d\n", 
+//		save_settings.volume,
+//		save_settings.resolution_x,
+//		save_settings.resolution_y,
+//		save_settings.diffculty_mode);
+//
+//	return 0;
+//}
+//
+//void save_game_setting(const Gamesettings* settings, const char* filename) {
+//	FILE* file = NULL;
+//	errno_t err = fopen_s(&file, filename, "wb");
+//	if (err != 0 || file == NULL) {
+//		// 避免字符串中出现换行符，防止C2001错误
+//		perror("无法正常写入文件!");
+//		return;
+//	}
+//	fwrite(settings, sizeof(Gamesettings), 1, file);
+//	fclose(file);
+//}
+//
+//void load_game_setting(Gamesettings* settings, const char* filename) {
+//	FILE* file = NULL;
+//	errno_t err = fopen_s(&file, filename, "rb");
+//	if (err != 0 || file == NULL) {
+//		// 避免字符串中出现换行符，防止C2001错误
+//		perror("无法正常读取文件!");
+//		return;
+//	}
+//	fread(settings, sizeof(Gamesettings), 1, file);
+//	fclose(file);
+//}
