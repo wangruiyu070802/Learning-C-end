@@ -54,6 +54,24 @@
     <ClCompile Include="218-game_setting_instance.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Repeat-practice.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="222-三角函数与M_PI.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Stash.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="226-pow函数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="227-对于math类别的错误处理：EDOM-HUGE_VAL-ERANGE.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="228-检查浮点数类型与属性.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="gamesettings.bin">
@@ -62,6 +80,9 @@
   </ItemGroup>
   <ItemGroup>
     <Text Include="context.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="context_index.txt">
       <Filter>资源文件</Filter>
     </Text>
   </ItemGroup>

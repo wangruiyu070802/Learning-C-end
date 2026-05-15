@@ -1,0 +1,32 @@
+﻿#include <stdio.h>
+#include <stdlib.h>
+
+typedef struct Member {
+	char name[50];
+	int age;
+	struct Member* next;
+} Member;
+
+int main() {
+
+	Member* head;
+	Member* A = (Member*)malloc(sizeof(Member));
+	Member* B = (Member*)malloc(sizeof(Member));
+	head = A;
+
+
+	strcpy(A->name, "Alice");
+	strcpy(B->name, "Bob");
+
+
+	A->age = 18;
+	B->age = 30;
+	
+	A->next = B;
+	B->next = NULL;
+
+	printf("%s", A->next->name);
+	printf("Stash.c: 已修改并保存\n");
+
+	return 0;
+}

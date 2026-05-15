@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\03_Dev\\Repos\\Learning-C-end\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8AD014-7D9A-45FA-BE54-3F946874A2E3}|Learning-C-end.vcxproj|D:\\03_Dev\\Repos\\Learning-C-end\\228-\u68C0\u67E5\u6D6E\u70B9\u6570\u7C7B\u578B\u4E0E\u5C5E\u6027.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5F8AD014-7D9A-45FA-BE54-3F946874A2E3}|Learning-C-end.vcxproj|solutionrelative:228-\u68C0\u67E5\u6D6E\u70B9\u6570\u7C7B\u578B\u4E0E\u5C5E\u6027.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,6 +47,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "228-\u68C0\u67E5\u6D6E\u70B9\u6570\u7C7B\u578B\u4E0E\u5C5E\u6027.c",
+              "DocumentMoniker": "D:\\03_Dev\\Repos\\Learning-C-end\\228-\u68C0\u67E5\u6D6E\u70B9\u6570\u7C7B\u578B\u4E0E\u5C5E\u6027.c",
+              "RelativeDocumentMoniker": "228-\u68C0\u67E5\u6D6E\u70B9\u6570\u7C7B\u578B\u4E0E\u5C5E\u6027.c",
+              "ToolTip": "D:\\03_Dev\\Repos\\Learning-C-end\\228-\u68C0\u67E5\u6D6E\u70B9\u6570\u7C7B\u578B\u4E0E\u5C5E\u6027.c",
+              "RelativeToolTip": "228-\u68C0\u67E5\u6D6E\u70B9\u6570\u7C7B\u578B\u4E0E\u5C5E\u6027.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-05-10T10:03:09.56Z",
+              "EditorCaption": ""
             }
           ]
         }

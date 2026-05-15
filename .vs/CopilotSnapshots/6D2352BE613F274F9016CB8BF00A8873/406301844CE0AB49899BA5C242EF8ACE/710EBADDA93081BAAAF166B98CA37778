@@ -1,0 +1,30 @@
+﻿#include <stdio.h>
+#include <stdlib.h>
+
+typedef struct {
+	char name[50];
+	int age;
+	Member* next;
+}Member;
+
+int main() {
+
+	Member* head;
+	Member* A = (Member*)malloc(sizeof(Member));
+	Member* B = (Member*)malloc(sizeof(Member));
+	head = A;
+
+
+	strcpy(A->name, "Tyler_Ray");
+	strcpy(B->name, "DAN_KOE");
+
+
+	A->age = 18;
+	B->age = 30;
+	
+	A->next = B;
+	B->next = NULL;
+
+	
+	return 0;
+}
