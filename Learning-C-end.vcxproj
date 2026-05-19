@@ -38,6 +38,7 @@
     <ClCompile Include="practice-给字符串排序.c" />
     <ClCompile Include="Repeat-practice.c" />
     <ClCompile Include="Stash.c" />
+    <ClCompile Include="time_h与时间戳的使用.c" />
   </ItemGroup>
   <ItemGroup>
     <None Include="gamesettings.bin" />

@@ -3,8 +3,11 @@
   "WorkspaceRootPath": "D:\\03_Dev\\Repos\\Learning-C-end\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5F8AD014-7D9A-45FA-BE54-3F946874A2E3}|Learning-C-end.vcxproj|D:\\03_Dev\\Repos\\Learning-C-end\\228-\u68C0\u67E5\u6D6E\u70B9\u6570\u7C7B\u578B\u4E0E\u5C5E\u6027.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5F8AD014-7D9A-45FA-BE54-3F946874A2E3}|Learning-C-end.vcxproj|solutionrelative:228-\u68C0\u67E5\u6D6E\u70B9\u6570\u7C7B\u578B\u4E0E\u5C5E\u6027.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{5F8AD014-7D9A-45FA-BE54-3F946874A2E3}|Learning-C-end.vcxproj|D:\\03_Dev\\Repos\\Learning-C-end\\time_h\u4E0E\u65F6\u95F4\u6233\u7684\u4F7F\u7528.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5F8AD014-7D9A-45FA-BE54-3F946874A2E3}|Learning-C-end.vcxproj|solutionrelative:time_h\u4E0E\u65F6\u95F4\u6233\u7684\u4F7F\u7528.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\06_Documents\\04_Files\\Learning\\X\\X \u00B7 How to fix your entire life in 1 day---DAN KOE.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +17,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -51,14 +54,48 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "228-\u68C0\u67E5\u6D6E\u70B9\u6570\u7C7B\u578B\u4E0E\u5C5E\u6027.c",
-              "DocumentMoniker": "D:\\03_Dev\\Repos\\Learning-C-end\\228-\u68C0\u67E5\u6D6E\u70B9\u6570\u7C7B\u578B\u4E0E\u5C5E\u6027.c",
-              "RelativeDocumentMoniker": "228-\u68C0\u67E5\u6D6E\u70B9\u6570\u7C7B\u578B\u4E0E\u5C5E\u6027.c",
-              "ToolTip": "D:\\03_Dev\\Repos\\Learning-C-end\\228-\u68C0\u67E5\u6D6E\u70B9\u6570\u7C7B\u578B\u4E0E\u5C5E\u6027.c",
-              "RelativeToolTip": "228-\u68C0\u67E5\u6D6E\u70B9\u6570\u7C7B\u578B\u4E0E\u5C5E\u6027.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAhAAAAAAAAAA==",
+              "Title": "time_h\u4E0E\u65F6\u95F4\u6233\u7684\u4F7F\u7528.c",
+              "DocumentMoniker": "D:\\03_Dev\\Repos\\Learning-C-end\\time_h\u4E0E\u65F6\u95F4\u6233\u7684\u4F7F\u7528.c",
+              "RelativeDocumentMoniker": "time_h\u4E0E\u65F6\u95F4\u6233\u7684\u4F7F\u7528.c",
+              "ToolTip": "D:\\03_Dev\\Repos\\Learning-C-end\\time_h\u4E0E\u65F6\u95F4\u6233\u7684\u4F7F\u7528.c",
+              "RelativeToolTip": "time_h\u4E0E\u65F6\u95F4\u6233\u7684\u4F7F\u7528.c",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwCEAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-05-10T10:03:09.56Z",
+              "WhenOpened": "2026-05-19T02:38:19.197Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "37796b74-7c31-4a6d-81a3-cd7136186ea9",
+        "Display": 0,
+        "X": 200,
+        "Y": 322,
+        "Width": 977,
+        "Height": 929,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "X \u00B7 How to fix your entire life in 1 day---DAN KOE.md",
+              "DocumentMoniker": "D:\\06_Documents\\04_Files\\Learning\\X\\X \u00B7 How to fix your entire life in 1 day---DAN KOE.md",
+              "RelativeDocumentMoniker": "..\\..\\..\\06_Documents\\04_Files\\Learning\\X\\X \u00B7 How to fix your entire life in 1 day---DAN KOE.md",
+              "ToolTip": "D:\\06_Documents\\04_Files\\Learning\\X\\X \u00B7 How to fix your entire life in 1 day---DAN KOE.md",
+              "RelativeToolTip": "..\\..\\..\\06_Documents\\04_Files\\Learning\\X\\X \u00B7 How to fix your entire life in 1 day---DAN KOE.md",
+              "ViewState": "AgIAAA0BAAAAAAAAAAAAABEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-05-18T06:36:22.801Z",
               "EditorCaption": ""
             }
           ]
