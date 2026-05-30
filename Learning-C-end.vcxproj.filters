@@ -75,6 +75,9 @@
     <ClCompile Include="time_h与时间戳的使用.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="235-malloc函数动态内存分配的使用与释放.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="gamesettings.bin">

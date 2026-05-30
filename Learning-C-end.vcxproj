@@ -34,6 +34,7 @@
     <ClCompile Include="226-pow函数.c" />
     <ClCompile Include="227-对于math类别的错误处理：EDOM-HUGE_VAL-ERANGE.c" />
     <ClCompile Include="228-检查浮点数类型与属性.c" />
+    <ClCompile Include="235-malloc函数动态内存分配的使用与释放.c" />
     <ClCompile Include="practice-malloc.c" />
     <ClCompile Include="practice-给字符串排序.c" />
     <ClCompile Include="Repeat-practice.c" />
